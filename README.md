@@ -4,7 +4,7 @@
 #pre-requisite :-
 
 1.open this url into browser:
-https://github.com/charlesw89/BandLabTest
+https://github.com/charlesw89/TradeByteTest
 2.find clone or download option and download the project in zip format 
 3.unzip the suite
 4.import suite in any IDE as Maven Project
